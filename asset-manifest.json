@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.028cedf7.css",
-    "main.js": "/static/js/main.f113181f.js",
-    "index.html": "/index.html",
-    "main.028cedf7.css.map": "/static/css/main.028cedf7.css.map",
-    "main.f113181f.js.map": "/static/js/main.f113181f.js.map"
+    "main.css": "/fuga/static/css/main.028cedf7.css",
+    "main.js": "/fuga/static/js/main.f113181f.js",
+    "index.html": "/fuga/index.html",
+    "main.028cedf7.css.map": "/fuga/static/css/main.028cedf7.css.map",
+    "main.f113181f.js.map": "/fuga/static/js/main.f113181f.js.map"
   },
   "entrypoints": [
     "static/css/main.028cedf7.css",
